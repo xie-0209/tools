@@ -1,9 +1,9 @@
 // 四個 GitHub 專案連結
 const projects = [
-  { name: "自我介紹網站", url: "https://xie-0209.github.io/03-test" },
-  { name: "計數器網站", url: "https://xie-0209.github.io/xie-count" },
-  { name: "QR Code 生成器", url: "https://xie-0209.github.io/xie-qrcord" },
-  { name: "BMI 計算器", url: "https://xie-0209.github.io/xie-BMI" }
+  { name: "自我介紹網站", url: "https://xie-0209.github.io/03-test/" },
+  { name: "計數器網站", url: "https://xie-0209.github.io/xie-count/" },
+  { name: "QR Code 生成器", url: "https://xie-0209.github.io/xie-qrcord/" },
+  { name: "BMI 計算器", url: "https://xie-0209.github.io/xie-BMI/" }
 ];
 
 const container = document.getElementById("cardsContainer");
